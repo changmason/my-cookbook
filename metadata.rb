@@ -1,0 +1,7 @@
+name             'my-cookbook'
+maintainer       'Mason Chang'
+maintainer_email 'changmason@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures my-cookbook'
+long_description 'Installs/Configures my-cookbook'
+version          '0.1.0'
